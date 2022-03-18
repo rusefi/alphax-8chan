@@ -3,6 +3,7 @@
 A sibling of https://github.com/rusefi/alphax-4chan with
 
 * 2: second CAN bus
+* 4: dual knock
 * 8: 4 more of ignition/injection
 * a few more i/o whatever fits
 * 2: two more vvt
