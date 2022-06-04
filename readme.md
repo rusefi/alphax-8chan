@@ -1,4 +1,4 @@
-
+[pinout spreadsheet](https://docs.google.com/spreadsheets/d/1-h8c47vzwoVt56TxdpPsfDbb4WIOS3K4TfcJ-AowHh8/)
 
 A sibling of https://github.com/rusefi/alphax-4chan with
 
